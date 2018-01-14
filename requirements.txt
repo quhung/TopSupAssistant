@@ -1,0 +1,6 @@
+terminaltables
+flask
+requests==2.14.2
+Pillow==4.1.1
+colorama==0.3.9
+pytesseract==0.1.7
